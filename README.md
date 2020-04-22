@@ -8,8 +8,9 @@ We've been provided with a bank's client data , such as : age of the client, the
 ## Importance of customer segmentation :-
 
 A significant amount of money is spend on advertising banks' schemes to its customers. now banks obviously would want to reduce this cost. So instead of approaching all its customers regarding new schemes , its better to target those consumers who have a greater probability of subscribing to new schemes. For this a machine learning approach is needed to achieve a high accuracy. 
-**There are many more issues which are discussed inside .ipynb file
+
+**There are many more issues which are discussed inside .ipynb file**
 
 ## Results :-
 
-**A 91.75 % accuracy was achieved using traditional ML models.
+**A 91.75 % accuracy was achieved using traditional ML models.**
