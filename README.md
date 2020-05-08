@@ -1,5 +1,5 @@
 # Customer-Segmentation
-My project submitted for Internshala (July 2019) training on Data Science
+Project submitted for Internshala (July 2019) training on Data Science
 
 ## Problem Statement :-
 
